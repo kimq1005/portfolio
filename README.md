@@ -51,5 +51,7 @@
 - Frontend : JavaScript /React JS / Next JS / Ant d / Styled Component
 - Backend : Node Js / Express JS / AWS EC2 / Mongo DB
 
-프로젝트 상세 설명 참고
+
+
+[프로젝트 상세 설명 참고](https://github.com/Doodream/staybrella_front#readme)
 ---

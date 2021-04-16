@@ -29,7 +29,7 @@
 
 ## 💻 Github & Blog
 
-- Github과 개발 블로그 입니다.
+ Github과 개발 블로그 입니다.
 
 - Gitbub [Doodream - Overview](https://github.com/Doodream)
 

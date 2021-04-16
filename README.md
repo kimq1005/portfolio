@@ -1,7 +1,7 @@
 # DOOHYUN Portfolio
 > 아는 것만으로는 충분하지 않다. 적용할 줄 알아야한다. 항상 배워나가는 개발자 입니다.
 
-<img src='https://user-images.githubusercontent.com/57996756/114961431-f445b900-9ea3-11eb-9c16-9b3a7d824e15.jpg' alt='증명사진' width=100, height=140>
+<img src='https://user-images.githubusercontent.com/57996756/114961431-f445b900-9ea3-11eb-9c16-9b3a7d824e15.jpg' alt='증명사진' width=200, height=260>
 
 ## Intro
 ---

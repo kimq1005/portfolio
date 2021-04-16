@@ -1,6 +1,10 @@
+# DOOHYUN Portfolio
 > 아는 것만으로는 충분하지 않다. 적용할 줄 알아야한다. 항상 배워나가는 개발자 입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b1e85d1-5260-4d60-96ae-af5e8048c288/_(1).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b1e85d1-5260-4d60-96ae-af5e8048c288/_(1).jpg)
+![증명 (1)](https://user-images.githubusercontent.com/57996756/114961431-f445b900-9ea3-11eb-9c16-9b3a7d824e15.jpg)
+
+## Intro
+---
 
 - 이름 : 노두현 (RHO DOOHYUN)
 - 나이 : 1994년생 (28세)

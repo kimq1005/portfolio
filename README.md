@@ -31,11 +31,11 @@
 
 - Github과 개발 블로그 입니다.
 
-[Doodream - Overview](https://github.com/Doodream)
+- Gitbub [Doodream - Overview](https://github.com/Doodream)
 
-[두드림의 기록](https://doodreamcode.tistory.com/)
+- Tistory Blog [두드림의 기록](https://doodreamcode.tistory.com/)
 
-[doodream (Doodream) - velog](https://velog.io/@doodream)
+- Velog [doodream (Doodream) - velog](https://velog.io/@doodream)
 
 [💻 Develop](https://www.notion.so/51092cf17b0d4e998d5051eb724541cd)
 

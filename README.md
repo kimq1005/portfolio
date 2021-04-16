@@ -37,7 +37,8 @@
 
 - Velog [doodream (Doodream) - velog](https://velog.io/@doodream)
 
-[💻 Develop](https://www.notion.so/51092cf17b0d4e998d5051eb724541cd)
+
+## 💻 Develop
 
 ---
 

@@ -33,16 +33,34 @@
 
 - Gitbub [Doodream - Overview](https://github.com/Doodream)
 
-- Tistory Blog [두드림의 기록](https://doodreamcode.tistory.com/)
-
 - Velog [doodream (Doodream) - velog](https://velog.io/@doodream)
+ 
+- Tistory Blog [두드림의 기록](https://doodreamcode.tistory.com/)
 
 
 ## 💻 Develop
 
 ---
 
-## 🌂 StayBrella
+### 🗣 ChawChaw
+
+[ChawChaw](https://chawchaw.vercel.app/)
+
+- 개발 기간 : 2021.07.20 ~ 2021.09.30
+- 웹 채팅 어플리케이션 ( 팀 프로젝트 : Frontend 노두현 Backend 하주현 김진현 )
+- 기술 스택 : 
+- FrontEnd : `Typescript` `React` `NextJs` `styled-components` `stompjs` 
+- CI/CD : Frontend `Vercel` , Backend : `Jenkins`
+- Backend : `Spring Boot 2.5.` `Mysql 8.0.23` `Java 11`
+- Server : `AWS EC2`
+- Version Control : `Git`
+- Repository : `Github`
+
+
+
+[프로젝트 Repository](https://github.com/Doodream/ChawChawFront)
+
+### 🌂 StayBrella
 
 [Staybrella](https://staybrella-front.vercel.app/)
 
@@ -52,7 +70,5 @@
 - Frontend : JavaScript /React JS / Next JS / Ant d / Styled Component
 - Backend : Node Js / Express JS / AWS EC2 / Mongo DB
 
+[프로젝트 Repository](https://github.com/Doodream/staybrella_front#readme)
 
-
-[프로젝트 상세 설명 참고](https://github.com/Doodream/staybrella_front#readme)
----
